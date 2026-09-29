@@ -2,6 +2,10 @@
 
 An end-to-end product analytics project evaluating the impact of a simulated product experiment on user conversion.
 
+## Live Dashboard
+
+[Open the interactive Streamlit dashboard](https://jay-ab-testing-analytics.streamlit.app/)
+
 ## Project Overview
 
 This project analyzes an A/B test involving 50,000 users split between a control and treatment group.
